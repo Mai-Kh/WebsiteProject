@@ -1,12 +1,11 @@
 body {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 
 h2 {
-  color: #7A0019;
-}
+  color:color: orange;}
 
 #contact {
-  background-color: #FFDE7A;
-  padding: 2%;
+  background-color: orange;
+  padding: 10%;
 }
