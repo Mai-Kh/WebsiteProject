@@ -1,14 +1,16 @@
-body {font-family: "Times New Roman", sans-serif;}
 
-h2 {color:color: orange;}
-h1 {color: blue;}
-.header {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 20px;
+body {
+    background-color: #660000;
 }
 
-#contact {
-  background-color: orange;
-  padding: 10%;
+table[Attributes Style] {
+    width: 790px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
 }
