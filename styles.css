@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 body {font-family: "Times New Roman", sans-serif;
 }
 
 body {background-color: #660000;
+=======
+
+body {
+    background-color: #660000;
+}
+
+table[Attributes Style] {
+    width: 790px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+>>>>>>> master
 }
