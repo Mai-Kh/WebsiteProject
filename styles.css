@@ -1,14 +1,5 @@
-body {font-family: "Times New Roman", sans-serif;}
-
-h2 {color:color: orange;}
-h1 {color: blue;}
-.header {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 20px;
+body {font-family: "Times New Roman", sans-serif;
 }
 
-#contact {
-  background-color: orange;
-  padding: 10%;
+body {background-color: #660000;
 }
