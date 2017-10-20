@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE Wood SYSTEM "wood.dtd">
+<!ELEMENT WOOD (woodtype, price, installation)>
