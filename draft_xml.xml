@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wood>
+<woodtype>oak</woodtype>
+<price>9.00 sq.ft</price>
+<installation>2.00 sq.ft</installation>
+<woodtype>douglas fir</woodtype>
+<price>11.00 sq.ft</price>
+<installation>2.00 sq.ft</installation>
+<woodtype>mahogony</woodtype>
+<price>11.00 sq.ft</price>
+<installation>2.00 sq.ft</installation>
+<woodtype>ash</woodtype>
+<price>10.00 sq.ft</price>
+<installation>2.00 sq.ft</installation>
+
+
+
+</wood>
