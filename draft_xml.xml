@@ -3,6 +3,11 @@
 <woodtype>oak</woodtype>
 <price>9.00 sq.ft</price>
 <installation>2.00 sq.ft</installation>
+  <woodtype>
+    <label>oak</label>
+    <price>9.00 sq.ft</price>
+    <installation>2.00 sq.ft</installation>
+  </woodtype>
 <woodtype>douglas fir</woodtype>
 <price>11.00 sq.ft</price>
 <installation>2.00 sq.ft</installation>
